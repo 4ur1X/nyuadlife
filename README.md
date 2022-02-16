@@ -7,10 +7,10 @@ This is a launch website for my animated short film showing the day in the life 
 ### Process
 
 The process was very smooth and organized.
-- I first started by designing a basic layout or <strong>wireframe</strong> of the website and its separate pages using Canva. At this stage, I also decided the colors to be used along with the fonts.
+- I first started by designing a basic layout or <strong>wireframe</strong> of the website and its separate pages using Canva. At this stage, I also decided the colors to be used along with the fonts and content.
 - Then, I went on to designing the film posters (in About page) in Canva. I went with the animated or cartoonistic appearance because my video was an animation.
 - After a few days, I began coding the basic text layout with HTML for each webpage using my previously done wireframe as reference.
 - As I gradually learnt CSS, I began adding colors and styles to the webpage elements.
 - I first completed the main trailer (home) page completely so as to make it easier to build other pages based on it.
-- It was a bit hard for me to decide as to what interactivity to add to the website using JavaScript. So, I just added a button that when clicked changes the background color of the site, and when the user hovers over the links, it highlights and enlarges them.
-- 
+- It was a bit hard for me to decide as to what interactivity to add to the website using JavaScript. So, I just added a button that when clicked changes the background color of the site, and when the user hovers over the links, it highlights and enlarges them. I also implemented a countdown timer using JavaScript (by referring to W3Schools).
+- Once all the pages were completed, I went through the code again to remove any unnecessary parts and make it more legible while also adding comments.
