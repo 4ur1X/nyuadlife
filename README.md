@@ -17,4 +17,4 @@ The process was very smooth and organized.
 
 ### Reflection:
 
-I am satisfied that my website looks exactly similar to my wireframe. It's minimalistic and simple to navigate. Though, I changed a few designs at a few places to make it look better. I would have liked to add more interactivity to my website, but considering this was my first time making a full website using JavaScript, I'd consider it a good start for me. Overall, I am happy that I could build a complete website based on my initial plans without making big changes.
+I am satisfied that my website looks exactly similar to my wireframe. It's minimalistic and simple to navigate. Though, I changed a few designs at a few places to make it look better. I would have liked to add more interactivity to my website, but considering this was my first time making a full website using JavaScript, I'd consider it a good start for me. Overall, I am happy that I could stick to my wireframe and build a complete website based on my initial plans without making big changes.
