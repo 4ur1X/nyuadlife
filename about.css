@@ -112,6 +112,12 @@ background-color: #57068c;
     color: rgb(99, 99, 99)
 }
 
+.tag-line{
+    font-style: italic;
+    color: #8530d1;
+    font-weight: bold;
+}
+
 .cursor{
     width: 3rem;
     height: 3rem;
