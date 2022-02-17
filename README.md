@@ -8,7 +8,7 @@ This is a launch website for my animated short film showing the day in the life 
 
 The whole process was very smooth and well-organized.
 - I first started by designing a basic layout or <strong>wireframe</strong> of the website and its separate pages using Canva. At this stage, I also decided the colors to be used along with the fonts and content.
-- Then, I went on to designing the film posters (in About page) in Canva. I went with the animated or cartoonistic appearance because my video was an animation.
+- Then, I went on to designing the film posters (in About page) in Canva. I went with the animated / cartoon appearance because my video was an animation.
 - After a few days, I began coding the basic text layout with HTML for each webpage using my previously done wireframe as reference.
 - As I gradually learnt CSS, I began adding colors and styles to the webpage elements.
 - I first completed the main trailer (home) page completely so as to make it easier to build other pages based on it.
