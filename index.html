@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>LIFE@NYUAD- 30MFF Premiere</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="main.css">
+        <script type="text/javascript" src="script.js" defer></script>
+
+    </head>
+    <body>
+        <!-- a separate movable div for the cursor -->
+        <div class="cursor"></div>
+
+        <!-- navigation bar -->
+        <div class="header">
+            <h2 class="logo">LIFE @ NYUAD</h2>
+            <nav>
+                <ul class="nav_links">
+                    <li><a href="about.html">ABOUT</a></li>
+                    <li><a href="cast.html">CAST</a></li>
+                    <li><a href="shop.html">SHOP</a></li>
+                </ul>
+            </nav>
+            <a class="cta" href="index.html">TRAILER</a>
+        </div>
+        <!-- navigation bar -->
+
+        <br>
+        <center>
+            <!-- color change background button -->
+            <button onclick = "changecol()"> 
+                Click here
+            </button>
+            <!-- color change background button -->
+
+            <br><br>
+
+            <!-- main content -->
+            <div class="heading">
+                <h1 class="film-title">A DAY IN THE LIFE AT <span style="color: #8530d1;">NYUAD</span></h1>
+                <br>
+                <h3>Launching in</h3>
+                <br>
+                <h2 id="demo" style="color: #8530d1;"></h2>
+                <br>
+                <!-- <iframe style="border: 6px solid #8530d1;" width="560" height="315" src="https://www.youtube.com/embed/IUNZCEh1nms?controls=0&showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+                <video width="560" height="315" controls style="border: 6px solid #8530d1;">
+                    <source src="images/video.mp4" type="video/mp4">
+                </video>
+            </div>
+            <br><br><br>
+            <a class="about-btn" href="about.html">ABOUT THE FILM</a>
+            <!-- main content -->
+
+        </center>
+    </body>
+</html>
