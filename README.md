@@ -12,7 +12,7 @@ The whole process was very smooth and well-organized.
 - After a few days, I began coding the basic text layout with HTML for each webpage using my previously done wireframe as reference.
 - As I gradually learnt CSS, I began adding colors and styles to the webpage elements.
 - I first completed the main trailer (home) page completely so as to make it easier to build other pages based on it.
-- It was a bit hard for me to decide as to what interactivity to add to the website using JavaScript. So, I just added a button that when clicked changes the background color of the site, and when the user hovers over the links, it highlights and enlarges them. I also implemented a countdown timer using JavaScript (by referring to W3Schools).
+- It was a bit hard for me to decide as to what interactivity to add to the website using JavaScript. So, I just added a button that when clicked changes the background color of the site, and when the user hovers over the links, it highlights and enlarges them. I also implemented a countdown timer using JavaScript (by referring to W3Schools website https://www.w3schools.com/howto/howto_js_countdown.asp).
 - Once all the pages were completed, I went through the code again to remove any unnecessary parts and make it more legible while also adding comments.
 
 ### Reflection:
